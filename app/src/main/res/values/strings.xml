@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sports App</string>
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_my_sports">My Sports</string>
+
+    <string name="text_home_fragment">Home Fragment</string>
+    <string name="text_account_fragment">Account Fragment</string>
+    <string name="text_profile_fragment">Profile Fragment</string>
+
+    <string name="sport_soccer">Soccer</string>
+    <string name="sport_basketball">Basketball</string>
+    <string name="sport_tennis">Tennis</string>
+    <string name="sport_cricket">Cricket</string>
+
+    <string name="desc_soccer">Soccer is a team sport played with a spherical ball between two teams of 11 players.</string>
+    <string name="desc_basketball">Basketball is a game played between two teams of five players on a rectangular court.</string>
+    <string name="desc_tennis">Tennis is a racket sport played individually against a single opponent or between two teams of two players each.</string>
+    <string name="desc_cricket">Cricket is a bat-and-ball game played between two teams of eleven players on a field with a central pitch.</string>
+</resources>
